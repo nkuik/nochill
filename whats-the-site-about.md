@@ -11,13 +11,19 @@ I _just so want_ to do a chore around the house without feeling bitter that my r
 
 The list could go on, and on, and on, and on -- you get the picture.
 
+## Just Relax
+
 And no, "just relax" has never been a helpful piece of advice. Actually, it's extremely frustrating to hear, because that's exactly what I want to do but can't, for some seemingly unknown reason. Moreover, this behavior is not prime friend-making behavior, either. Quite the opposite actually, as if the only possibility is to make friends that are just as high-strung as I am. And if any of this sounds familiar, you likely know that "high-strungity" is contagious and potentiates, so if one person is feeling stressed about something, those with similar predispositions might also start to feel stressed.
 
-The problem isn’t lack of awareness; on the contrary the problem is likely too much awareness, or rather overthinking. But anyone who overthinks knows the paradox about realizing that one is overthinking. How can I stop my overthinking? Think more about how I think less? Oh no, I’m overthinking about overthinking!
+# Overawarenss
+
+The problem isn’t lack of awareness; on the contrary the problem is likely too much awareness, or overthinking. But anyone who overthinks knows the paradox about realizing that one is overthinking. How can I stop my overthinking? Think more about how I think less? Oh no, I’m overthinking about overthinking!
 
 This highlights a point that will be made many times over on this site: thinking and behavior are linked, but they are not the same. Despite my desire to relax in what I think _should_ be low-stress situations, I am unable to do so.
 
 There’s always just been way too much chatter in my head, way too much catastrophizing about situations I have no idea will ever come to fruition — simply way too much rumination. This contrary to what other people saw in me, which was a shy, reserved individual that might open up the more they got to know me. In reality, I wanted to act more freely and spontaneously, but I had (and still have) great difficulty doing so.
+
+Moreover, there is a common thread of self-consciousness in my `no chill` situations, resulting in an overawareness of the way I might appear to others. If I had the initial feeling, but didn't really care how this might make me "look" to others, it would be a different story.
 
 # no chill
 
@@ -36,7 +42,7 @@ Let’s not get too hung up on the existing definitions. As I’ll go into detai
 While not defined completely at this point, this site _is_:
 
 * A one-man-show
-* A narrative meandering of sorts through the process of ultimately accepting who we are and maybe trying some new things
+* A research-informed, narrative style meandering of sorts through the process of ultimately accepting who we are and maybe trying some new things
 * A blog and a newsletter (at least for now)
 * Maybe a place where we might get better at not taking ourselves so seriously, in a positive way
 
