@@ -1,0 +1,30 @@
+theme: "PaperMod"
+baseURL: "https://nochill.co/"
+languageCode: "en-us"
+title: "no chill co."
+
+enableRobotsTXT: true
+
+params:
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "no chill co."
+  description: "ExampleSite description"
+  keywords: [Blog, ]
+  author: "Nathan Kuik"
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "Welcome to my blog. If here for the first time, go take a look at this [post](https://nochill.co/posts/whats-this-site-about)."
+
+socialIcons:
+  - name: twitter
+    url: "https://twitter.com/nochillco"
