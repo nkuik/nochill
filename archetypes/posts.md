@@ -1,14 +1,13 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: {{ .Date }}
-# weight: 1
-# aliases: ["/first"]
-# tags: ["first"]
+weight: 1
+aliases: [""]
+tags: [""]
 author: "Nathan Kuik"
 showToc: true
 TocOpen: false
 draft: true
-canonicalURL: "https://nochill.co/{{ title }}"
 hidemeta: false
 comments: false
 description: "Desc Text."

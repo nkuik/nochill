@@ -7,7 +7,7 @@ tags: ["about", "intro"]
 author: "Nathan Kuik"
 showToc: false
 TocOpen: false
-draft: false
+draft: true 
 hidemeta: false
 comments: false
 description: "Let me tell you why I'm spending the time to write this site."

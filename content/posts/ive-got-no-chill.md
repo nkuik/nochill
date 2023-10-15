@@ -1,3 +1,29 @@
+---
+title: "I've Got No Chill"
+date: 2023-10-15T20:58:05+02:00
+weight: 1
+aliases: [""]
+tags: [""]
+author: "Nathan Kuik"
+showToc: true
+TocOpen: false
+draft: true
+hidemeta: false
+comments: false
+description: "Desc Text."
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
+
 # I've got `no chill`
 
 To describe my no chill personality, I need to bring in some background from psychology.
